@@ -33,5 +33,9 @@
     "theme-change": "2.5.0",
     "truncate-html": "1.0.4",
     "vite": "4.3.9"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "openai": "^4.0.0"
   }
 }

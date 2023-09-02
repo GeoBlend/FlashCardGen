@@ -13,5 +13,9 @@
 </div>
 
 <div class="flex flex-col mb-20 w-full">
-  <div class="divider" />
+  <div class="divider" ></div>
+  <textarea placeholder="Enter prompt" class="textarea textarea-bordered textarea-lg w-20px" ></textarea>
+  
+  <button class="btn rounded w-20px my-4">Enter</button>
+
 </div>
